@@ -1,0 +1,15 @@
+# .gitignore
+
+# Node modules
+node_modules/
+Client/node_modules/
+
+# Cache / build
+.cache/
+dist/
+build/
+Client/.next/
+Client/.cache/
+
+# Logs
+*.log
